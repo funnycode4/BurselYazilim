@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\brk\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\brk\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\brk\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BurselYazilimCore.-142378602.00" t="ExcludeRecursive" />
+    <e p="C:\Users\brk\RiderProjects\BurselYazilimCore" t="IncludeFlat">
+      <e p="BurselYazilimCore" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BurselYazilimCore.csproj" t="IncludeRecursive" />
+        <e p="Classes" t="Include">
+          <e p="BStringExtensions.cs" t="Include" />
+          <e p="BWebHelperStrings.cs" t="Include" />
+          <e p="SiteAyarlari.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="BurakTest.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ErrorViewModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="BurselYazilimCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="BurakTest" t="Include">
+            <e p="Deneme.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Saas.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="BurakTest" t="Include">
+            <e p="Deneme.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Saas.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="animate.css" t="Include" />
+            <e p="animations-delay.css" t="Include" />
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="flatpickr.min.css" t="Include" />
+            <e p="flexslider.css" t="Include" />
+            <e p="fonts" t="Include">
+              <e p="slick-2.html" t="Include" />
+              <e p="slick.html" t="Include" />
+              <e p="slickd41d.html" t="Include" />
+            </e>
+            <e p="magnific-popup.css" t="Include" />
+            <e p="materialdesignicons.min.css" t="Include" />
+            <e p="owl.carousel.min.css" t="Include" />
+            <e p="owl.theme.default.min.css" t="Include" />
+            <e p="owl.video.play.html" t="Include" />
+            <e p="slick-theme.css" t="Include" />
+            <e p="slick.css" t="Include" />
+            <e p="style.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="fonts" t="Include">
+            <e p="ajax-loader.gif" t="Include" />
+            <e p="flexslider-icon-2.html" t="Include" />
+            <e p="flexslider-icon-3.html" t="Include" />
+            <e p="flexslider-icon-4.html" t="Include" />
+            <e p="flexslider-icon.html" t="Include" />
+            <e p="flexslider-icond41d.html" t="Include" />
+            <e p="materialdesignicons-webfont2f9b-2.html" t="Include" />
+            <e p="materialdesignicons-webfont2f9b.eot" t="Include" />
+            <e p="materialdesignicons-webfont2f9b.html" t="Include" />
+            <e p="materialdesignicons-webfont2f9b.woff" t="Include" />
+            <e p="materialdesignicons-webfontd41d.eot" t="Include" />
+            <e p="slick.html" t="Include" />
+            <e p="slick.woff" t="Include" />
+          </e>
+          <e p="images" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+            <e p="404.png" t="Include" />
+            <e p="about.jpg" t="Include" />
+            <e p="app" t="Include">
+              <e p="1.png" t="Include" />
+              <e p="2.png" t="Include" />
+              <e p="3.png" t="Include" />
+              <e p="4.png" t="Include" />
+              <e p="feature.png" t="Include" />
+              <e p="home.png" t="Include" />
+            </e>
+            <e p="blog" t="Include">
+              <e p="01.jpg" t="Include" />
+              <e p="02.jpg" t="Include" />
+              <e p="03.jpg" t="Include" />
+              <e p="04.jpg" t="Include" />
+              <e p="05.jpg" t="Include" />
+              <e p="06.jpg" t="Include" />
+              <e p="07.jpg" t="Include" />
+              <e p="08.jpg" t="Include" />
+            </e>
+            <e p="busi01.jpg" t="Include" />
+            <e p="client" t="Include">
+              <e p="01.jpg" t="Include" />
+              <e p="02.jpg" t="Include" />
+              <e p="03.jpg" t="Include" />
+              <e p="04.jpg" t="Include" />
+              <e p="05.jpg" t="Include" />
+              <e p="06.jpg" t="Include" />
+              <e p="1.png" t="Include" />
+              <e p="2.png" t="Include" />
+              <e p="3.png" t="Include" />
+              <e p="4.png" t="Include" />
+              <e p="5.png" t="Include" />
+              <e p="6.png" t="Include" />
+            </e>
+            <e p="comingsoon.jpg" t="Include" />
+            <e p="contact.png" t="Include" />
+            <e p="course" t="Include">
+              <e p="1.jpg" t="Include" />
+              <e p="2.jpg" t="Include" />
+              <e p="3.jpg" t="Include" />
+              <e p="4.jpg" t="Include" />
+              <e p="5.jpg" t="Include" />
+              <e p="6.jpg" t="Include" />
+              <e p="7.jpg" t="Include" />
+              <e p="8.jpg" t="Include" />
+              <e p="9.jpg" t="Include" />
+              <e p="about.jpg" t="Include" />
+              <e p="bg01.jpg" t="Include" />
+              <e p="bg02.jpg" t="Include" />
+              <e p="bg03.jpg" t="Include" />
+              <e p="bg04.jpg" t="Include" />
+              <e p="bg05.jpg" t="Include" />
+            </e>
+            <e p="coworking" t="Include">
+              <e p="about.jpg" t="Include" />
+              <e p="bg01.jpg" t="Include" />
+              <e p="bg02.jpg" t="Include" />
+              <e p="bg03.jpg" t="Include" />
+              <e p="bg04.jpg" t="Include" />
+              <e p="cta.jpg" t="Include" />
+            </e>
+            <e p="event" t="Include">
+              <e p="about.jpg" t="Include" />
+              <e p="b01.jpg" t="Include" />
+              <e p="b02.jpg" t="Include" />
+              <e p="b03.jpg" t="Include" />
+              <e p="cta.jpg" t="Include" />
+              <e p="event.jpg" t="Include" />
+            </e>
+            <e p="favicon.ico" t="Include" />
+            <e p="hosting" t="Include">
+              <e p="1.png" t="Include" />
+              <e p="2.png" t="Include" />
+              <e p="bg1.png" t="Include" />
+              <e p="deal-hend.png" t="Include" />
+            </e>
+            <e p="hotel" t="Include">
+              <e p="01.jpg" t="Include" />
+              <e p="02.jpg" t="Include" />
+              <e p="03.jpg" t="Include" />
+              <e p="04.jpg" t="Include" />
+              <e p="05.jpg" t="Include" />
+              <e p="06.jpg" t="Include" />
+              <e p="07.jpg" t="Include" />
+              <e p="08.jpg" t="Include" />
+              <e p="09.jpg" t="Include" />
+              <e p="bg01.jpg" t="Include" />
+              <e p="bg02.jpg" t="Include" />
+              <e p="bg03.jpg" t="Include" />
+              <e p="bg04.jpg" t="Include" />
+              <e p="bg05.jpg" t="Include" />
+            </e>
+            <e p="icon" t="Include">
+              <e p="24-hours.svg" t="Include" />
+              <e p="ai.svg" t="Include" />
+              <e p="bed.svg" t="Include" />
+              <e p="big.svg" t="Include" />
+              <e p="bitcoin.svg" t="Include" />
+              <e p="calendar.svg" t="Include" />
+              <e p="calendar_b.svg" t="Include" />
+              <e p="camera.svg" t="Include" />
+              <e p="cardiogram.svg" t="Include" />
+              <e p="cloud.svg" t="Include" />
+              <e p="coffee-cup.svg" t="Include" />
+              <e p="computer.svg" t="Include" />
+              <e p="database.svg" t="Include" />
+              <e p="Email.svg" t="Include" />
+              <e p="game-controller.svg" t="Include" />
+              <e p="game.svg" t="Include" />
+              <e p="graduation-hat.svg" t="Include" />
+              <e p="insurance.svg" t="Include" />
+              <e p="intellectual.svg" t="Include" />
+              <e p="lightbulb.svg" t="Include" />
+              <e p="location.svg" t="Include" />
+              <e p="low-battery.svg" t="Include" />
+              <e p="mail.svg" t="Include" />
+              <e p="pen.svg" t="Include" />
+              <e p="printer.svg" t="Include" />
+              <e p="question.svg" t="Include" />
+              <e p="refresh.svg" t="Include" />
+              <e p="sand-clock.svg" t="Include" />
+              <e p="server.svg" t="Include" />
+              <e p="serving-dish.svg" t="Include" />
+              <e p="speedometer.svg" t="Include" />
+              <e p="star.svg" t="Include" />
+              <e p="start-up.svg" t="Include" />
+              <e p="table.svg" t="Include" />
+              <e p="ticket1.svg" t="Include" />
+              <e p="ticket2.svg" t="Include" />
+              <e p="ticket3.svg" t="Include" />
+              <e p="user.svg" t="Include" />
+              <e p="video.svg" t="Include" />
+              <e p="weightlifter.svg" t="Include" />
+              <e p="wifi.svg" t="Include" />
+            </e>
+            <e p="illustrator" t="Include">
+              <e p="app_development_SVG.svg" t="Include" />
+              <e p="Asset186.svg" t="Include" />
+              <e p="Asset187.svg" t="Include" />
+              <e p="Asset189.svg" t="Include" />
+              <e p="Asset190.svg" t="Include" />
+              <e p="Asset192.svg" t="Include" />
+              <e p="faq.svg" t="Include" />
+              <e p="Mobile_notification_SVG.svg" t="Include" />
+              <e p="SEO_SVG.svg" t="Include" />
+              <e p="Startup_SVG.svg" t="Include" />
+              <e p="working_with_computer.svg" t="Include" />
+              <e p="youtube-media.svg" t="Include" />
+            </e>
+            <e p="maintenance.jpg" t="Include" />
+            <e p="marketing" t="Include">
+              <e p="marketing-shape.png" t="Include" />
+              <e p="marketing.png" t="Include" />
+            </e>
+            <e p="modern01.jpg" t="Include" />
+            <e p="payments" t="Include">
+              <e p="american-ex.png" t="Include" />
+              <e p="discover.png" t="Include" />
+              <e p="master-card.png" t="Include" />
+              <e p="paypal.png" t="Include" />
+              <e p="visa.png" t="Include" />
+            </e>
+            <e p="personal" t="Include">
+              <e p="1.jpg" t="Include" />
+              <e p="2.jpg" t="Include" />
+              <e p="3.jpg" t="Include" />
+              <e p="4.jpg" t="Include" />
+              <e p="5.jpg" t="Include" />
+              <e p="6.jpg" t="Include" />
+              <e p="bg01.jpg" t="Include" />
+              <e p="bg02.jpg" t="Include" />
+            </e>
+            <e p="saas" t="Include">
+              <e p="1.png" t="Include" />
+              <e p="2.png" t="Include" />
+              <e p="home-shape.png" t="Include" />
+              <e p="home.png" t="Include" />
+            </e>
+            <e p="shapes" t="Include">
+              <e p="arrow-bottom.png" t="Include" />
+              <e p="curve-dark.png" t="Include" />
+              <e p="curve-light.png" t="Include" />
+              <e p="curve-white.png" t="Include" />
+              <e p="round-dark.png" t="Include" />
+              <e p="round-light.png" t="Include" />
+              <e p="round-white.png" t="Include" />
+              <e p="shape-dark.png" t="Include" />
+              <e p="shape-light.png" t="Include" />
+              <e p="shape-white.png" t="Include" />
+            </e>
+            <e p="single" t="Include">
+              <e p="01.jpg" t="Include" />
+              <e p="02.jpg" t="Include" />
+              <e p="03.jpg" t="Include" />
+              <e p="04.jpg" t="Include" />
+              <e p="05.jpg" t="Include" />
+              <e p="06.jpg" t="Include" />
+              <e p="07.jpg" t="Include" />
+              <e p="1.png" t="Include" />
+              <e p="bg01.jpg" t="Include" />
+              <e p="bg02.jpg" t="Include" />
+              <e p="camera.png" t="Include" />
+              <e p="drone.gif" t="Include" />
+            </e>
+            <e p="team" t="Include">
+              <e p="1.jpg" t="Include" />
+              <e p="2.jpg" t="Include" />
+              <e p="3.jpg" t="Include" />
+              <e p="4.jpg" t="Include" />
+              <e p="5.jpg" t="Include" />
+              <e p="6.jpg" t="Include" />
+              <e p="7.jpg" t="Include" />
+              <e p="8.jpg" t="Include" />
+            </e>
+            <e p="user" t="Include">
+              <e p="01.jpg" t="Include" />
+              <e p="02.jpg" t="Include" />
+              <e p="03.jpg" t="Include" />
+              <e p="login.png" t="Include" />
+              <e p="recovery.png" t="Include" />
+              <e p="signup.png" t="Include" />
+            </e>
+            <e p="work" t="Include">
+              <e p="1.jpg" t="Include" />
+              <e p="10.jpg" t="Include" />
+              <e p="11.jpg" t="Include" />
+              <e p="12.jpg" t="Include" />
+              <e p="2.jpg" t="Include" />
+              <e p="3.jpg" t="Include" />
+              <e p="4.jpg" t="Include" />
+              <e p="5.jpg" t="Include" />
+              <e p="6.jpg" t="Include" />
+              <e p="7.jpg" t="Include" />
+              <e p="8.jpg" t="Include" />
+              <e p="9.jpg" t="Include" />
+              <e p="single.jpg" t="Include" />
+            </e>
+          </e>
+          <e p="index.html" t="Include" />
+          <e p="index_agency.html" t="Include" />
+          <e p="index_apps.html" t="Include" />
+          <e p="index_business.html" t="Include" />
+          <e p="index_cloud_hosting.html" t="Include" />
+          <e p="index_course.html" t="Include" />
+          <e p="index_coworking.html" t="Include" />
+          <e p="index_event.html" t="Include" />
+          <e p="index_hotel.html" t="Include" />
+          <e p="index_marketing.html" t="Include" />
+          <e p="index_modern_business.html" t="Include" />
+          <e p="index_personal.html" t="Include" />
+          <e p="index_saas.html" t="Include" />
+          <e p="index_single_product.html" t="Include" />
+          <e p="index_studio.html" t="Include" />
+          <e p="js" t="Include">
+            <e p="app.js" t="Include" />
+            <e p="bootstrap.bundle.min.js" t="Include" />
+            <e p="contact.js" t="Include" />
+            <e p="countdown.init.js" t="Include" />
+            <e p="counter.init.js" t="Include" />
+            <e p="flatpickr.init.js" t="Include" />
+            <e p="flatpickr.min.js" t="Include" />
+            <e p="flexslider.init.js" t="Include" />
+            <e p="isotope.js" t="Include" />
+            <e p="jquery.countdown.js" t="Include" />
+            <e p="jquery.countdown.min.js" t="Include" />
+            <e p="jquery.easing.min.js" t="Include" />
+            <e p="jquery.flexslider-min.js" t="Include" />
+            <e p="jquery.magnific-popup.min.js" t="Include" />
+            <e p="jquery.min.js" t="Include" />
+            <e p="magnific.init.js" t="Include" />
+            <e p="maintenance.init.js" t="Include" />
+            <e p="owl.carousel.min.js" t="Include" />
+            <e p="owl.init.js" t="Include" />
+            <e p="parallax.js" t="Include" />
+            <e p="portfolio.init.js" t="Include" />
+            <e p="scrollspy.min.js" t="Include" />
+            <e p="slick.init.js" t="Include" />
+            <e p="slick.min.js" t="Include" />
+            <e p="typed.init.js" t="Include" />
+            <e p="typed.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+          <e p="page_aboutus.html" t="Include" />
+          <e p="page_blog.html" t="Include" />
+          <e p="page_blog_detail.html" t="Include" />
+          <e p="page_blog_sidebar.html" t="Include" />
+          <e p="page_comingsoon.html" t="Include" />
+          <e p="page_components.html" t="Include" />
+          <e p="page_contact.html" t="Include" />
+          <e p="page_cover_login.html" t="Include" />
+          <e p="page_cover_re_passward.html" t="Include" />
+          <e p="page_cover_signup.html" t="Include" />
+          <e p="page_error.html" t="Include" />
+          <e p="page_job_apply.html" t="Include" />
+          <e p="page_job_detail.html" t="Include" />
+          <e p="page_jobs.html" t="Include" />
+          <e p="page_login.html" t="Include" />
+          <e p="page_maintenance.html" t="Include" />
+          <e p="page_pricing.html" t="Include" />
+          <e p="page_privacy.html" t="Include" />
+          <e p="page_recovery_passward.html" t="Include" />
+          <e p="page_services.html" t="Include" />
+          <e p="page_signup.html" t="Include" />
+          <e p="page_team.html" t="Include" />
+          <e p="page_terms.html" t="Include" />
+          <e p="page_work.html" t="Include" />
+          <e p="page_work_detail.html" t="Include" />
+        </e>
+      </e>
+      <e p="BurselYazilimCore.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
